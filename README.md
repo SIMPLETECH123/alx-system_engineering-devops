@@ -1,1 +1,1 @@
-
+shell permission how to switch current user how to print current user username how to print all the groups the current user belongs to how to change ownership using chmod how to give ownership permission amalysing the read wirite and execute for user groupuser and random user using chgrp chmod to switch mode how to give permission to subdirectories how to assign permission to new created directory and how to play star war on the terminal
